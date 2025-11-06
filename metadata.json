@@ -1,0 +1,5 @@
+{
+  "name": "AI Arabic Grammar Analyst (I'rab)",
+  "description": "An intelligent web application that provides detailed grammatical analysis (I'rab) for Arabic sentences using the Gemini API. Simply enter an Arabic sentence to receive a word-by-word breakdown of its grammatical structure.",
+  "requestFramePermissions": []
+}
